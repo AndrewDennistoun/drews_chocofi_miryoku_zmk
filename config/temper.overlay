@@ -1,0 +1,8 @@
+{
+    keymap_transform: keymap_transform {
+        compatible = "zmk,keymap-transform";
+
+        // Shift columns inward by 1 to match Beekeeb Chocofi wiring
+        col-offset = <1>;
+    };
+};
