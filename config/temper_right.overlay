@@ -1,0 +1,6 @@
+/ {
+    keymap_transform: keymap_transform {
+        compatible = "zmk,keymap-transform";
+        col-offset = <1>;
+    };
+};
